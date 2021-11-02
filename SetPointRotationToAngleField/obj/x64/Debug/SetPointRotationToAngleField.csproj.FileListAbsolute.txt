@@ -1,0 +1,6 @@
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.dll
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.pdb
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.csprojAssemblyReference.cache
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.csproj.CoreCompileInputs.cache
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.dll
+C:\addins\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.pdb
