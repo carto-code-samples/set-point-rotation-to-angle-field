@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x64</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{8CDBF6EA-AC2A-406B-9196-B08EEA57911F}</ProjectGuid>
+    <ProjectGuid>{B9C051F7-14D3-41CB-A951-3AB2BC034878}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SetPointRotationToAngleField</RootNamespace>

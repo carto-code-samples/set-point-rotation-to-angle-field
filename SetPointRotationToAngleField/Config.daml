@@ -1,11 +1,11 @@
 ﻿<ArcGIS defaultAssembly="SetPointRotationToAngleField.dll" defaultNamespace="SetPointRotationToAngleField" xmlns="http://schemas.esri.com/DADF/Registry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
-  <AddInInfo id="{8cdbf6ea-ac2a-406b-9196-b08eea57911f}" version="1.0" desktopVersion="2.9.32704">
+  <AddInInfo id="{b9c051f7-14d3-41cb-a951-3ab2bc034878}" version="1.0" desktopVersion="2.8.29751">
     <Name>SetPointRotationToAngleField</Name>
     <Description>SetPointRotationToAngleField description</Description>
     <Image>Images\AddinDesktop32.png</Image>
     <Author>dani9058</Author>
     <Company>Acme</Company>
-    <Date>10/26/2021 7:40:37 AM</Date>
+    <Date>11/3/2021 8:48:02 AM</Date>
     <Subject>Framework</Subject>
     <!-- Note subject can be one or more of these topics:
                     Content, Framework, Editing, Geodatabase, Geometry, Geoprocessing, Layouts, Map Authoring, Map Exploration -->
@@ -28,7 +28,7 @@
       </groups>
       <controls>
         <!-- add your controls here -->
-        <button id="SetPointRotationToAngleField_SetPointRotationToAngleFieldButton" caption="Set Point Rotation To Angle Field" className="SetPointRotationToAngleFieldButton" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
+        <button id="SetPointRotationToAngleField_SetPointRotationToAngleFieldButton" caption="Set Point Rotation To Angle Field Button" className="SetPointRotationToAngleFieldButton" loadOnClick="true" smallImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue16.png" largeImage="pack://application:,,,/ArcGIS.Desktop.Resources;component/Images/GenericButtonBlue32.png">
           <tooltip heading="Tooltip Heading">Tooltip text<disabledText /></tooltip>
         </button>
       </controls>

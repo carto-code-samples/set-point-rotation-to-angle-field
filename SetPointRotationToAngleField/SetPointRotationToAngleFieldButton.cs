@@ -21,16 +21,18 @@ namespace SetPointRotationToAngleField
 {
   internal class SetPointRotationToAngleFieldButton : Button
   {
-
-    internal static bool IsNumericFieldType(FieldType type) 
-    { 
-      switch (type) 
-      { 
-        case FieldType.Double: case FieldType.Integer: case FieldType.Single: case FieldType.SmallInteger: 
-          return true; 
-        default: 
-          return false; 
-      } 
+    internal static bool IsNumericFieldType(FieldType type)
+    {
+      switch (type)
+      {
+        case FieldType.Double:
+        case FieldType.Integer:
+        case FieldType.Single:
+        case FieldType.SmallInteger:
+          return true;
+        default:
+          return false;
+      }
     }
 
     protected bool hasNumericAngleField(List<FieldDescription> fieldDesc)
@@ -40,7 +42,7 @@ namespace SetPointRotationToAngleField
         if ((f.Name == "angle") && IsNumericFieldType(f.Type))
         {
           return true;
-        } 
+        }
       }
       return false;
     }
@@ -120,6 +122,7 @@ namespace SetPointRotationToAngleField
         ArcGIS.Desktop.Framework.Dialogs.MessageBox.Show("Exception caught: " + exc.Message);
         return;
       }
+
     }
   }
 }
