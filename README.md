@@ -21,7 +21,7 @@ To install without cloning this repository, download that individual file from t
 https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/SetPointRotationToAngleField/bin/Debug/SetPointRotationToAngleField.esriAddinX
 
 ### To modify:
-Install Visual Studio 2019 and the ArcGIS Pro SDK for developers. 
+Install Visual Studio 2019 and the ArcGIS Pro SDK for developers following the instructions in this repo:
 
 https://github.com/Esri/arcgis-pro-sdk/wiki/ProGuide-Installation-and-Upgrade
 
