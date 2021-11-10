@@ -2,14 +2,12 @@
 Add-in for ArcGIS Pro that will update a point layer's symbology settings so that the point symbols are rotated based on the value of the "angle" field. 
 
 ### Requirements
-- ArcGIS Pro version 2.8
+- ArcGIS Pro version 2.8 or 2.9
 
 ### To use:
 - In ArcGIS Pro, select a point layer in the Table of Contents of a map by clicking it. The point layer must contain a numerical field named "angle".
 - With that layer highlighted, go to the Add-Ins tab and click the Set Point Rotation To Angle Field Button. 
-- The point symbols will now be rotated based on the "angle" field.
-
-This will update every symbol layer of the point symbol, so the entire symbol should be correctly rotated. 
+- Every symbol layer in the point symbols will now have the rotation property mapped to the "angle" attribute. 
 
 ### To install:
 Clone this repository and double-click the .esriAddinX file located here to install the add-in:
