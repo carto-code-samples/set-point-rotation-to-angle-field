@@ -1,0 +1,10 @@
+C:\SetPointRotationToAngleField\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.dll
+C:\SetPointRotationToAngleField\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.pdb
+C:\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.csprojAssemblyReference.cache
+C:\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.dll
+C:\SetPointRotationToAngleField\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.pdb
+C:\set-point-rotation-to-angle-field\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.dll
+C:\set-point-rotation-to-angle-field\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.pdb
+C:\set-point-rotation-to-angle-field\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.csprojAssemblyReference.cache
+C:\set-point-rotation-to-angle-field\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.dll
+C:\set-point-rotation-to-angle-field\SetPointRotationToAngleField\obj\x64\Debug\SetPointRotationToAngleField.pdb
