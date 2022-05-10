@@ -1,9 +1,0 @@
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\bin\Debug\net5.0-windows\SetPointRotationToAngleField.deps.json
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\bin\Debug\net5.0-windows\SetPointRotationToAngleField.dll
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\bin\Debug\net5.0-windows\ref\SetPointRotationToAngleField.dll
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\bin\Debug\net5.0-windows\SetPointRotationToAngleField.pdb
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\obj\Debug\net5.0-windows\SetPointRotationToAngleField.GeneratedMSBuildEditorConfig.editorconfig
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\obj\Debug\net5.0-windows\SetPointRotationToAngleField.csproj.CoreCompileInputs.cache
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\obj\Debug\net5.0-windows\SetPointRotationToAngleField.dll
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\obj\Debug\net5.0-windows\ref\SetPointRotationToAngleField.dll
-C:\multiscale-mapping-tools\add-ins\SetPointRotationToAngleField\30\SetPointRotationToAngleField\obj\Debug\net5.0-windows\SetPointRotationToAngleField.pdb
