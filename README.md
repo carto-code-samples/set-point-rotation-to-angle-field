@@ -16,7 +16,7 @@ Clone this repository and double-click the .esriAddinX file located here to inst
 
 To install without cloning this repository, download that individual file from this repo and run it:
 
-https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/SetPointRotationToAngleField/bin/Debug/SetPointRotationToAngleField.esriAddinX
+https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/SetPointRotationToAngleField/v28/SetPointRotationToAngleField/bin/Debug/SetPointRotationToAngleField.esriAddinX
 
 ### To modify:
 Install Visual Studio 2019 and the ArcGIS Pro SDK for developers following the instructions in this repo:
