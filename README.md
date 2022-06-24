@@ -2,7 +2,7 @@
 Add-in for ArcGIS Pro that will update a point layer's symbology settings so that the point symbols are rotated based on the value of the "angle" field. 
 
 ### Requirements
-- ArcGIS Pro version 2.8 or 2.9
+- ArcGIS Pro version 2.8, 2.9, 3.0
 
 ### To use:
 - In ArcGIS Pro, select a point layer in the Table of Contents of a map by clicking it. The point layer must contain a numerical field named "angle".
@@ -12,14 +12,20 @@ Add-in for ArcGIS Pro that will update a point layer's symbology settings so tha
 ### To install:
 Clone this repository and double-click the .esriAddinX file located here to install the add-in:
 
-`..\set-point-rotation-to-angle-field\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.esriAddinX`
+- For ArcGIS Pro 2.8, 2.9:
+`..\set-point-rotation-to-angle-field\v28\SetPointRotationToAngleField\bin\Debug\SetPointRotationToAngleField.esriAddinX`
+- For ArcGIS Pro 3.0:
+`..\set-point-rotation-to-angle-field\v30\SetPointRotationToAngleField\bin\Debug\net6.0-windows\SetPointRotationToAngleField.esriAddinX`
 
 To install without cloning this repository, download that individual file from this repo and run it:
 
-https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/SetPointRotationToAngleField/v28/SetPointRotationToAngleField/bin/Debug/SetPointRotationToAngleField.esriAddinX
+- For ArcGIS Pro 2.8, 2.9:
+https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/v28/SetPointRotationToAngleField/bin/Debug/SetPointRotationToAngleField.esriAddinX
+- For ArcGIS Pro 3.0:
+https://github.com/carto-code-samples/set-point-rotation-to-angle-field/blob/main/v30/SetPointRotationToAngleField/bin/Debug/net6.0-windows/SetPointRotationToAngleField.esriAddinX
 
 ### To modify:
-Install Visual Studio 2019 and the ArcGIS Pro SDK for developers following the instructions in this repo:
+Install Visual Studio 2022 and the ArcGIS Pro SDK for developers following the instructions in this repo:
 
 https://github.com/Esri/arcgis-pro-sdk/wiki/ProGuide-Installation-and-Upgrade
 
